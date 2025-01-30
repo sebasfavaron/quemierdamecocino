@@ -6,3 +6,5 @@ Using (for now) scraped links from [PaulinaCocina](https://www.paulinacocina.net
 
 - Add more Argentinian recipes
 - Exclude recipes that are not full meals (like coffee, bread, sauces, etc)
+
+<img width="839" alt="61955" src="https://github.com/user-attachments/assets/e09d15bc-c745-4ac6-ad47-def90244f930" />
